@@ -8,4 +8,6 @@ Files:
 </ul>
 
 * `CM 2.6 exploration` explores some of the other variables in the CM2.6 model available from pangeo 
-* `jianjun_paper` Recreates some of the figures in Yin [here](https://journals.ametsoc.org/view/journals/clim/33/9/jcli-d-19-0551.1.xml)
+* `jianjun_paper` Recreates some of the figures in Yin et al 2020 [here](https://journals.ametsoc.org/view/journals/clim/33/9/jcli-d-19-0551.1.xml)
+* `new_york_seasonal_cycle` Timeseries of sea level at select cities
+* `sl_dsitribution_exploration` Histograms of sea level
